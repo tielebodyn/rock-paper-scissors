@@ -1,6 +1,6 @@
 import Button from "../components/Button.js"
 import Div from "../components/Div.js"
-import Text from "../components/text.js"
+import Text from "../components/Text.js"
 import {
     initCamera,
     stopCamera
