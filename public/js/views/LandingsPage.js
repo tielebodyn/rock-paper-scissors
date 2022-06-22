@@ -26,7 +26,7 @@ const LandingsPage = () => {
         className: 'subtitle'
     })
     Image({
-        src: "../../images/rps.gif",
+        src: "./images/rps.gif",
         parent: parent,
         className: 'rpcImage',
         id: 'rpcImage'
