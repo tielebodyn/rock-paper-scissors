@@ -4,8 +4,10 @@ import rockPaperScissors from "./rockPaperScissors.js";
 
 
 let wrapper = document.getElementById('wrapper');
-const URL = "https://teachablemachine.withgoogle.com/models/stwm9IQ-3/";
+const URL = "https://teachablemachine.withgoogle.com/models/JjYJhbH8J/";
 //old model: https://teachablemachine.withgoogle.com/models/mru5X8V1_/
+// newest 6k scissors:
+// https://teachablemachine.withgoogle.com/models/JjYJhbH8J/
 let model, webcam, maxPredictions;
 let choice;
 let playing = false
